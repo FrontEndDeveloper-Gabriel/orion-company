@@ -1,9 +1,34 @@
-# SITE - ORION COMPANY
+# 💻 ORION COMPANY
 
-<h3>Introdução</h3> 
-Uma aplicação desenvolvida para Orion Company, uma empresa fictícia especializada em contratação de novos funcionários. <br>
+<br>
 
-# <h3>Requisitos: <br>
-● Acessar em navegadores como o <strong>Chrome, Edge, FireFox</strong> e entre outros; <br>
-● Link de acesso: <strong>https://orion-company.netlify.app/</strong>
-</h3>
+## 📖 About
+```ascii
+> A website developed for Orion Company, a fictional company specializing in hiring new employees.
+```
+
+<br>
+
+## 📌 Requeriments
+ ● Accessible in browsers such as **Chrome, Edge, Firefox,** among others; <br>
+ ● Access link: **https://orion.company.netlify.app/**
+ 
+<br>
+
+## 🛠️ Tech Stack
+
+[![Stack](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+<br>
+
+---
+<div align = "center">
+<img src = "/give_a_star.png" width = "594" height = "168">
+</div>
+
+<br>
+
+<div align = "center">
+ Created by <a href = "https://github.com/FrontEndDeveloper-Gabriel/"> Gabriel Ribeiro</a> 👨‍💻
+</div>
+
